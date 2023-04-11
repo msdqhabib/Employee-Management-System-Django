@@ -1,5 +1,4 @@
 # Employee Management System <img src="https://icon-icons.com/icons2/2107/PNG/32/file_type_django_icon_130645.png" alt="django-icon" width="30">
-![Employee Management System Demo](https://media.giphy.com/media/lEToJxT7tLDbgLCY2Z/giphy.gif)
 
 A simple Django application that allows you to manage employee data with a user-friendly interface.
 
@@ -14,9 +13,9 @@ A simple Django application that allows you to manage employee data with a user-
 
 <!-- Add features list -->
 ## Features
-- <img src="https://icon-icons.com/icons2/1381/PNG/32/multiple-users_94625.png" alt="users-icon" width="30"> User-friendly interface for managing employee data.
-- <img src="https://icon-icons.com/icons2/1363/PNG/32/edit_90809.png" alt="edit-icon" width="30"> Add, edit, and delete employee information.
-- <img src="https://icon-icons.com/icons2/1378/PNG/32/filter_90870.png" alt="filter-icon" width="30"> Filter employee data by various attributes such as position.
+- <img src="https://img.icons8.com/metro/26/000000/user-male-circle.png"/>" alt="users-icon" width="30"> User-friendly interface for managing employee data.
+- <img src="https://img.icons8.com/metro/26/000000/edit.png"/>" alt="edit-icon" width="30"> Add, edit, and delete employee information.
+- <img src="https://img.icons8.com/metro/26/000000/edit.png"/>" alt="filter-icon" width="30"> Filter employee data by various attributes such as position.
 
 <!-- Add installation instructions -->
 ## Installation
