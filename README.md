@@ -13,9 +13,9 @@ A simple Django application that allows you to manage employee data with a user-
 
 <!-- Add features list -->
 ## Features
-- <img src="https://img.icons8.com/metro/26/000000/user-male-circle.png"/>" alt="users-icon" width="30"> User-friendly interface for managing employee data.
-- <img src="https://img.icons8.com/metro/26/000000/edit.png"/>" alt="edit-icon" width="30"> Add, edit, and delete employee information.
-- <img src="https://img.icons8.com/metro/26/000000/edit.png"/>" alt="filter-icon" width="30"> Filter employee data by various attributes such as position.
+- User-friendly interface for managing employee data.
+- Add, edit, and delete employee information.
+- Filter employee data by various attributes such as position.
 
 <!-- Add installation instructions -->
 ## Installation
