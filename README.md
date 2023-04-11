@@ -1,11 +1,7 @@
-<!-- Add header with project name and image -->
-<h1 align="center">Employee Management System</h1>
-<p align="center">
-  <img src="https://placehold.it/400x200" alt="Project Image">
-</p>
+# Employee Management System <img src="https://icon-icons.com/icons2/2107/PNG/32/file_type_django_icon_130645.png" alt="django-icon" width="30">
+![Employee Management System Demo](https://media.giphy.com/media/lEToJxT7tLDbgLCY2Z/giphy.gif)
 
-<!-- Add brief description of project -->
-<p align="center">A simple Django application that allows you to manage employee data with a user-friendly interface.</p>
+A simple Django application that allows you to manage employee data with a user-friendly interface.
 
 <!-- Add table of contents -->
 ## Table of Contents
@@ -18,8 +14,9 @@
 
 <!-- Add features list -->
 ## Features
-
-- Add features according to this project
+- <img src="https://icon-icons.com/icons2/1381/PNG/32/multiple-users_94625.png" alt="users-icon" width="30"> User-friendly interface for managing employee data.
+- <img src="https://icon-icons.com/icons2/1363/PNG/32/edit_90809.png" alt="edit-icon" width="30"> Add, edit, and delete employee information.
+- <img src="https://icon-icons.com/icons2/1378/PNG/32/filter_90870.png" alt="filter-icon" width="30"> Filter employee data by various attributes such as position.
 
 <!-- Add installation instructions -->
 ## Installation
@@ -78,8 +75,10 @@ python manage.py runserver
 The application will now be available at `http://localhost:8000`.
 
 ## Usage
-
-To use the Employee Management System, open your web browser and go to `http://localhost:8000`.
+Some usage points for this System
+1. Easily manage employee data with a user-friendly web interface
+2. Add, edit, and delete employee information from a centralized location
+3. Keep track of employee performance metrics, such as attendance and productivity
 
 ## Contributing
 
